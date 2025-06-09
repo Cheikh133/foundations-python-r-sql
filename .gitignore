@@ -1,0 +1,37 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# R temporary files and sessions
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Environment folders (virtualenv, pipenv, conda)
+env/
+venv/
+.venv/
+.conda/
+*.egg-info/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Datasets (optional, if you want to avoid pushing raw files)
+datasets/*.csv
+datasets/*.xlsx
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE/project settings
+.vscode/
+*.code-workspace
+*.Rproj
