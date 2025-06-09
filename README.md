@@ -1,54 +1,49 @@
 # Foundations: Python, R & SQL
 
-This repository contains core materials to learn the fundamentals of Python, R, and SQL. The content covers key concepts and practical examples used in data analysis and applied statistics.
+This repository contains essential materials to learn the fundamentals of Python, R, and SQL. The content focuses on practical knowledge and core logic used in data analysis and applied statistics.
 
-## 📚 Contents
+## Contents
 
 ### Python
-- Variables, logic, functions
+- Programming basics
 - Data structures
 - Data analysis with pandas and numpy
-- Mini-project: business data analysis
+- Final notebook: applied example
 
 ### R
-- Data manipulation with dplyr
+- Data wrangling with dplyr
 - Data visualization with ggplot2
-- Mini-project: exploratory analysis in R
+- Final notebook: exploratory analysis
 
 ### SQL
 - SELECT, JOIN, GROUP BY, subqueries
-- Query writing and best practices
-- Mini-project: case study on database queries
+- Query writing and case-based examples
 
-## 🎯 Objectives
+## Objectives
 
-- Practice essential programming and analysis concepts
-- Use practical notebooks and applied examples
-- Build a solid foundation for real-world applications
+- Practice essential programming and analytical concepts
+- Develop a strong foundation for real-world applications
+- Focus on clarity, efficiency, and reproducibility
 
-## 📂 Structure
+## Repository structure
 
 ```
 /python
     notebooks/
-    exercises/
-    datasets/
 
 /r
     notebooks/
-    exercises/
 
 /sql
     queries/
-    exercises/
 ```
 
-## 👤 Author
+## Author
 
 Cheikh LO  
 Data Scientist  
 Université de Reims Champagne-Ardenne
 
-## 🪪 License
+## License
 
 This project is open source under the [MIT License](LICENSE).
