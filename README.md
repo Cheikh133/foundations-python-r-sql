@@ -28,17 +28,27 @@ This repository contains essential materials to learn the fundamentals of Python
 ## Project structure
 
 - `python/`
-  - [`01-basics.ipynb`](python/notebooks/01-basics.ipynb)
-  - [`02-logic-and-control.ipynb`](python/notebooks/02-logic-and-control.ipynb)
-  - [`03-functions.ipynb`](python/notebooks/03-functions.ipynb)
-  - [`04-data-structures.ipynb`](python/notebooks/04-data-structures.ipynb)
-  - [`05-pandas.ipynb`](python/notebooks/05-pandas.ipynb)
-  - [`06-numpy.ipynb`](python/notebooks/06-numpy.ipynb)
-  - [`07-mini-project.ipynb`](python/notebooks/07-mini-project.ipynb)
+  - [`01-basics.ipynb`](python/01-basics.ipynb)
+  - [`02-logic-and-control.ipynb`](python/02-logic-and-control.ipynb)
+  - [`03-functions.ipynb`](python/03-functions.ipynb)
+  - [`04-data-structures.ipynb`](python/04-data-structures.ipynb)
+  - [`05-pandas.ipynb`](python/05-pandas.ipynb)
+  - [`06-numpy.ipynb`](python/06-numpy.ipynb)
+  - [`07-mini-project.ipynb`](python/07-mini-project.ipynb)
   - [`README.md`](python/README.md)
 
 - `r/`
-  - `notebooks/`
+  - [`00-introduction.ipynb`](r/00-introduction.ipynb)
+  - [`01-vectors-factors.ipynb`](r/01-vectors-factors.ipynb)
+  - [`02-lists-matrices-arrays.ipynb`](r/02-lists-matrices-arrays.ipynb)
+  - [`03-data-frames.ipynb`](r/03-data-frames.ipynb)
+  - [`04-summary-na.ipynb`](r/04-summary-na.ipynb)
+  - [`05-dplyr.ipynb`](r/05-dplyr.ipynb)
+  - [`06-joins-combine.ipynb`](r/06-joins-combine.ipynb)
+  - [`07-reshape-pivot.ipynb`](r/07-reshape-pivot.ipynb)
+  - [`08-strings.ipynb`](r/08-strings.ipynb)
+  - [`09-dates-times.ipynb`](r/09-dates-times.ipynb)
+  - [`10-mini-project.ipynb`](r/10-mini-project.ipynb)
   - [`README.md`](r/README.md)
 
 - `sql/`
@@ -48,8 +58,6 @@ This repository contains essential materials to learn the fundamentals of Python
 - `.gitignore`  
 - `LICENSE`  
 - [`README.md`](README.md)
-
-
 
 ## Author
 
