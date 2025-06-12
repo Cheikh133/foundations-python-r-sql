@@ -63,7 +63,7 @@ This repository contains essential materials to learn the fundamentals of Python
 
 Cheikh LO  
 Data Scientist  
-Université de Reims Champagne-Ardenne
+
 
 ## License
 
