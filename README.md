@@ -2,30 +2,36 @@
 
 This repository contains essential materials to learn the fundamentals of Python, R, and SQL. The content focuses on practical knowledge and core logic used in data analysis and applied statistics.
 
-## Contents
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-Data--Analysis-blue)
+![R](https://img.shields.io/badge/R-Statistics-blue)
+![SQL](https://img.shields.io/badge/SQL-Queries-orange)
 
-### Python
-- Programming basics
-- Data structures
-- Data analysis with pandas and numpy
-- Final notebook: applied example
+---
 
-### R
-- Data wrangling with dplyr
-- Data visualization with ggplot2
-- Final notebook: exploratory analysis
+## 🔍 Overview
 
-### SQL
-- SELECT, JOIN, GROUP BY, subqueries
-- Query writing and case-based examples
+This repository is designed for students, aspiring data scientists, and self-learners looking to build strong foundations in Python, R, and SQL. 
 
-## Objectives
+---
 
-- Practice essential programming and analytical concepts
-- Develop a strong foundation for real-world applications
-- Focus on clarity, efficiency, and reproducibility
+## 🧠 Key Skills Covered
 
-## Project structure
+- **Python**: variables, logic, loops, functions, data structures, pandas, numpy
+- **R**: vectors, data frames, manipulation with `dplyr`, visualization with `ggplot2`
+- **SQL**: filtering, joins, aggregation, subqueries, window functions
+
+---
+
+## 🚀 How to Run
+
+- **Python notebooks**: run locally or on [Google Colab](https://colab.research.google.com/)
+- **R notebooks**: run in RStudio, Jupyter with IRkernel, or on Colab using `rpy2`
+- **SQL notebooks**: use Jupyter or Colab with `duckdb` (`pip install duckdb`)
+
+---
+
+## 🗂️ Project structure
 
 - `python/`
   - [`01-basics.ipynb`](python/01-basics.ipynb)
@@ -51,20 +57,32 @@ This repository contains essential materials to learn the fundamentals of Python
   - [`10-mini-project.ipynb`](r/10-mini-project.ipynb)
   - [`README.md`](r/README.md)
 
-- `sql/`
-  - `queries/`
+- `sql/`  
+  - [`01-select-from-where.ipynb`](sql/01-select-from-where.ipynb)  
+  - [`02-alias-and-builtins.ipynb`](sql/02-alias-and-builtins.ipynb)  
+  - [`03-strings-and-dates.ipynb`](sql/03-strings-and-dates.ipynb)  
+  - [`04-aggregations-groupby-having.ipynb`](sql/04-aggregations-groupby-having.ipynb)  
+  - [`05-orderby-distinct-case.ipynb`](sql/05-orderby-distinct-case.ipynb)  
+  - [`06-joins.ipynb`](sql/06-joins.ipynb)  
+  - [`07-subqueries-views.ipynb`](sql/07-subqueries-views.ipynb)  
+  - [`08-window-functions.ipynb`](sql/08-window-functions.ipynb)  
+  - [`09-mini-project.ipynb`](sql/09-mini-project.ipynb)  
   - [`README.md`](sql/README.md)
 
 - `.gitignore`  
 - `LICENSE`  
 - [`README.md`](README.md)
 
-## Author
 
-Cheikh LO  
-Data Scientist  
+---
 
+## 👤 Author
 
-## License
+**Cheikh LO**  
+*Data Scientist*  
+
+---
+
+## 📄 License
 
 This project is open source under the [MIT License](LICENSE).
