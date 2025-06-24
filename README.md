@@ -9,13 +9,13 @@ This repository contains essential materials to learn the fundamentals of Python
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This repository is designed for students, aspiring data scientists, and self-learners looking to build strong foundations in Python, R, and SQL. 
 
 ---
 
-## 🧠 Key Skills Covered
+## Key Skills Covered
 
 - **Python**: variables, logic, loops, functions, data structures, pandas, numpy
 - **R**: vectors, data frames, manipulation with `dplyr`, visualization with `ggplot2`
@@ -23,7 +23,7 @@ This repository is designed for students, aspiring data scientists, and self-lea
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 - **Python notebooks**: run locally or on [Google Colab](https://colab.research.google.com/)
 - **R notebooks**: run in RStudio, Jupyter with IRkernel, or on Colab using `rpy2`
@@ -31,7 +31,7 @@ This repository is designed for students, aspiring data scientists, and self-lea
 
 ---
 
-## 🗂️ Project structure
+## Project structure
 
 - `python/`
   - [`01-basics.ipynb`](python/01-basics.ipynb)
@@ -76,13 +76,13 @@ This repository is designed for students, aspiring data scientists, and self-lea
 
 ---
 
-## 👤 Author
+## Author
 
 **Cheikh LO**  
 *Data Scientist*  
 
 ---
 
-## 📄 License
+## License
 
 This project is open source under the [MIT License](LICENSE).
