@@ -7,13 +7,13 @@ This repository contains essential materials to learn the fundamentals of Python
 ![R](https://img.shields.io/badge/R-Statistics-blue)
 ![SQL](https://img.shields.io/badge/SQL-Queries-orange)
 
----
+
 
 ## Overview
 
 This repository is designed for students, aspiring data scientists, and self-learners looking to build strong foundations in Python, R, and SQL. 
 
----
+
 
 ## Key Skills Covered
 
@@ -21,7 +21,7 @@ This repository is designed for students, aspiring data scientists, and self-lea
 - **R**: vectors, data frames, manipulation with `dplyr`, visualization with `ggplot2`
 - **SQL**: filtering, joins, aggregation, subqueries, window functions
 
----
+
 
 ## How to Run
 
@@ -29,7 +29,7 @@ This repository is designed for students, aspiring data scientists, and self-lea
 - **R notebooks**: run in RStudio, Jupyter with IRkernel, or on Colab using `rpy2`
 - **SQL notebooks**: use Jupyter or Colab with `duckdb` (`pip install duckdb`)
 
----
+
 
 ## Project structure
 
@@ -74,14 +74,14 @@ This repository is designed for students, aspiring data scientists, and self-lea
 - [`README.md`](README.md)
 
 
----
+
 
 ## Author
 
 **Cheikh LO**  
 *Data Scientist*  
 
----
+
 
 ## License
 
